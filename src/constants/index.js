@@ -247,7 +247,7 @@ const projects = [
       },
     ],
     image: spin,
-    source_code_link: "https://gentle-bienenstitch-f3cf5c.netlify.app/",
+    source_code_link: "https://spin-it.netlify.app/",
   },
 ];
 

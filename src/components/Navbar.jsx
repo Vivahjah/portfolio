@@ -109,7 +109,7 @@ const Navbar = () => {
           className="w-32 bg-[#915EFF] text-md rounded-md mt-4 py-1 "
             onClick={() => {
               const link = document.createElement("a");
-              link.href = "/src/assets/CV.pdf"
+              link.href = "/CV.pdf"
               link.download = "Mengwa_Ugochukwu.pdf";
               link.click();
             }}
